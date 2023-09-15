@@ -3,8 +3,6 @@
 <h2>👨‍💻  Cyber Security Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
    
 <h2>🏫 Current Learning:</h2>
 

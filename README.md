@@ -3,10 +3,10 @@
 <h2>👨‍💻  Cyber Security Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/frederickwh/ActiveDirectoryLab)
-- [Setting up SEIM in Azure]()
-- [Creating a File Integrity Montitor]()
-- [Creating a Vulnerability Management Lab]()
-- [Building a REST API]()
+- [Setting up SEIM in Azure](https://github.com/frederickwh/SEIMinAzure)
+- [Creating a File Integrity Montitor](https://github.com/frederickwh/CreatingFIM)
+- [Creating a Vulnerability Management Lab](https://github.com/frederickwh/VulnerabilityManagemnetLab)
+- [Building a REST API](https://github.com/frederickwh/BuldingRESTAPI)
    
 <h2>🏫 Current Learning:</h2>
 

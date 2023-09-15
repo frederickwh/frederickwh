@@ -11,11 +11,11 @@
  
 <h2>📄 Certifications:</h2>
 
-- [<b>EC Council - Certified Ethical Hacker v12 (CEH)</b>](https://cdn.discordapp.com/attachments/1152246677185515691/1152247193563041902/ECC-CEH-Certificate.jpg)
-- [<b>CompTIA - Network+</b>](https://cdn.discordapp.com/attachments/1152246677185515691/1152249859215212544/CompTIA_Network_ce_certificate.jpg)
-- [<b>CompTIA - Security+</b>](https://cdn.discordapp.com/attachments/1152246677185515691/1152249858929983598/CompTIA_Security_ce_certificate.jpg)
+- [<b>EC Council - Certified Ethical Hacker v12 (CEH)</b>](https://imgur.com/a/g0bXZcu)
+- [<b>CompTIA - Network+</b>](https://imgur.com/a/Z0s519H)
+- [<b>CompTIA - Security+</b>](https://imgur.com/a/VpnJMuc)
 - [<b>Microsoft - Azure Fundamentals (az-900)</b>](https://imgur.com/a/GFRF5go)
-- [<b>Microsoft - Security, Complience, and Identity Fundamentals (SC-900)</b>](https://cdn.discordapp.com/attachments/1152246677185515691/1152249858586067045/SC-900_Certificate_-_frederickwatershastie.jpg)
+- [<b>Microsoft - Security, Complience, and Identity Fundamentals (SC-900)</b>](https://imgur.com/a/DdJxqvy)
 
 
 <h2> 🤳 Connect with me:</h2>

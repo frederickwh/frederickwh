@@ -5,8 +5,6 @@
 - [Active Directory Home Lab](https://github.com/frederickwh/ActiveDirectoryLab)
 - [Setting up a SEIM in Azure](https://github.com/frederickwh/SEIMinAzure)
 - [Creating a Vulnerability Management Lab](https://github.com/frederickwh/VulnerabilityManagemnetLab)
-- [Building a REST API](https://github.com/frederickwh/BuldingRESTAPI)
-- [Creating a File Integrity Montitor](https://github.com/frederickwh/CreatingFIM)
    
 <h2>🏫 Current Learning:</h2>
 

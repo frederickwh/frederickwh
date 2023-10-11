@@ -21,7 +21,7 @@
 
 <h2> 🙋‍♂️ About me:</h2>
 
-- [<b>My strengths</b>](https://github.com/frederickwh/SEIMinAzure)
+- [<b>My strengths</b>](https://github.com/frederickwh/strengths/blob/main/README.md)
 - [<b>My personal hobbies and interests</b>](https://github.com/frederickwh/SEIMinAzure)
 
 <h2> 🤳 Connect with me:</h2>

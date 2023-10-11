@@ -23,7 +23,7 @@
 <h2> 🙋‍♂️ About me:</h2>
 
 - [<b>My Strengths</b>](https://github.com/frederickwh/strengths/blob/main/README.md)
-- [<b>My personal Hobbies and Interests</b>](https://github.com/frederickwh/hobbies/blob/main/README.md)
+- [<b>My Personal Hobbies and Interests</b>](https://github.com/frederickwh/hobbies/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 

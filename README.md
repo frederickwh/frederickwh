@@ -3,8 +3,8 @@
 <h2>👨‍💻  Cyber Security Projects:</h2>
 
 - [Building a SEIM in Azure](https://github.com/frederickwh/SEIMinAzure)
-- [Active Directory Home Lab](https://github.com/frederickwh/ActiveDirectoryLab)
 - [Creating a Vulnerability Management Lab](https://github.com/frederickwh/VulnerabilityManagemnetLab)
+- [Active Directory Home Lab](https://github.com/frederickwh/ActiveDirectoryLab)
    
 <h2>🏫 Current Learning:</h2>
 

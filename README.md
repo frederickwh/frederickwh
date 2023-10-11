@@ -1,4 +1,5 @@
-<h1>Hi, I'm Frederick! <br/><a href="https://www.linkedin.com/in/frederick-waters-hastie/">Cyber Security Professional</a>
+<h1>Hi, I'm Frederick! <br/>
+   <a href="https://www.linkedin.com/in/frederick-waters-hastie/">Cyber Security Professional</a>
 
 <h2>👨‍💻  Cyber Security Projects:</h2>
 

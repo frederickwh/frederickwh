@@ -2,9 +2,9 @@
 
 <h2>👨‍💻  Cyber Security Projects:</h2>
 
-- [Building a SEIM in Azure](https://github.com/frederickwh/SEIMinAzure)
-- [Creating a Vulnerability Management Lab](https://github.com/frederickwh/VulnerabilityManagemnetLab)
-- [Active Directory Home Lab](https://github.com/frederickwh/ActiveDirectoryLab)
+- [<b>Building a SEIM in Azure</b>](https://github.com/frederickwh/SEIMinAzure)
+- [<b>Creating a Vulnerability Management Lab</b>](https://github.com/frederickwh/VulnerabilityManagemnetLab)
+- [<b>Active Directory Home Lab</b>](https://github.com/frederickwh/ActiveDirectoryLab)
    
 <h2>🏫 Current Learning:</h2>
 
@@ -19,8 +19,13 @@
 - [<b>Microsoft - Azure Fundamentals (AZ-900)</b>](https://imgur.com/a/GFRF5go)
 - [<b>Microsoft - Security, Complience, and Identity Fundamentals (SC-900)</b>](https://imgur.com/a/DdJxqvy)
 
+<h2> 🙋‍♂️ About me:</h2>
+
+- [<b>My strengths</b>](https://github.com/frederickwh/SEIMinAzure)
+- [<b>My personal hobbies and interests</b>](https://github.com/frederickwh/SEIMinAzure)
 
 <h2> 🤳 Connect with me:</h2>
+
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 

@@ -11,6 +11,7 @@
 
 - <b>CompTIA - PenTest+<b>
 - <b>ITIL 4<b>
+- <b>Splunk Core Certified User<b>
  
 <h2>📄 Certifications:</h2>
 

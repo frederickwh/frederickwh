@@ -10,6 +10,7 @@
 <h2>🏫 Current Learning:</h2>
 
 - <b>CompTIA - PenTest+<b>
+- <b>Google Cyber Security Professional Certification<b>
 - <b>ITIL 4<b>
 - <b>Splunk Core Certified User<b>
  

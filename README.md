@@ -14,7 +14,7 @@
 - <b>ITIL 4<b>
 - <b>Splunk Core Certified User<b>
  
-[<h2>📄 Certifications:</h2>](https://github.com/frederickwh/Certifications/blob/main/README.md)
+<h2>📄 Certifications:</h2>
 
 - [<b>EC Council - Certified Ethical Hacker v12 (CEH)</b>](https://imgur.com/a/g0bXZcu)
 - [<b>CompTIA - Network+</b>](https://imgur.com/a/Z0s519H)
